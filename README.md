@@ -5,8 +5,8 @@
 ### Github Stats
 <p align="center">
 
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=kb150802&show_icons=true&theme=dark&hide_border=true&icon_color=f28a00" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=kb150802&theme=dark&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bansal-kush&show_icons=true&theme=dark&hide_border=true&icon_color=f28a00" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=bansal-kush&theme=dark&hide_border=true" />
 </p>
 
 
